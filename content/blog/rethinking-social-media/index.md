@@ -1,7 +1,7 @@
 ---
 title: Rethinking Social Media
 date: "2020-12-05T22:40:32.169Z"
-description: My ruminations about the state of social networking platforms and how we can improve them.
+description: The state of social networking platforms and how we can improve them.
 ---
 ## Introduction
 
